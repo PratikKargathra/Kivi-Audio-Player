@@ -1,16 +1,6 @@
-# kivi_audio_payer
+# KVI Audio Player
 
-A new Flutter project.
+this is a simply audio player app with use off best UI UX
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Output
+![fff](https://user-images.githubusercontent.com/90972632/175453715-91768825-17e5-4b99-8241-5944f9cfccf8.gif)
