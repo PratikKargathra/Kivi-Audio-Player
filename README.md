@@ -1,4 +1,4 @@
-# KVI Audio Player
+# Audio Player
 
 this is a simply audio player app with use off best UI UX
 
